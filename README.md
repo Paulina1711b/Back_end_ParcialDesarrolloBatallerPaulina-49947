@@ -29,9 +29,7 @@ Prueba Unitaria No Mutante
 👍Comprobación de caracteres inválidos: Solo se aceptan las letras A, T, C y G en la secuencia de ADN.
 👍 Detección de ADN duplicado: Se identifican y registran las secuencias de ADN que ya están en la base de datos.
 👍 Manejo de matrices vacías: Se asegura de que la matriz no esté vacía antes de comenzar el análisis.
-## 🌐 Ejecución
-La aplicacion deberia haber  sido  desplegada en Render pero hubo problemas [FOTO RENDER] y intentamos con la otra pagina pero nos dice que hay un problema con la CPU
-```
+
 
 ##  Enlace para Pruebas y Documentación , para verificar el proyecto 
 - Swagger UI: Si la API está en funcionamiento, puedes realizar pruebas en http://localhost:8080/swagger-ui/index.html#/stats-controller/getStats
@@ -44,6 +42,9 @@ La aplicacion deberia haber  sido  desplegada en Render pero hubo problemas [FOT
 - POST /mutant - Recibe un JSON con la matriz de ADN y determina si es mutante, si lo es tirara como respuesta un true y si no un false.
 - GET /stats - Devuelve un JSON con el conteo de mutantes y humanos verificados indicando cuantos humanos , cuantos mutantes y el ratio .
 
-```
+
+## 🌐 Ejecución
+La aplicacion deberia haber  sido  desplegada en Render pero hubo problemas [FOTO RENDER] y intentamos con la otra pagina pero nos dice que hay un problema con la CPU
+
 
     
