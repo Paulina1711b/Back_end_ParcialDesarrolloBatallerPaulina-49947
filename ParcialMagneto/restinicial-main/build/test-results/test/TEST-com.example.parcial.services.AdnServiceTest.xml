@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.parcial.services.AdnServiceTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-11-03T00:40:57" hostname="DESKTOP-GC57B8D" time="0.034">
+  <properties/>
+  <testcase name="testSecondaryRightDiagonals()" classname="com.example.parcial.services.AdnServiceTest" time="0.016"/>
+  <testcase name="testTertiaryRightDiagonals()" classname="com.example.parcial.services.AdnServiceTest" time="0.001"/>
+  <testcase name="testMainDiagonals()" classname="com.example.parcial.services.AdnServiceTest" time="0.0"/>
+  <testcase name="testTertiaryLeftDiagonals()" classname="com.example.parcial.services.AdnServiceTest" time="0.0"/>
+  <testcase name="testRows()" classname="com.example.parcial.services.AdnServiceTest" time="0.001"/>
+  <testcase name="testSecondaryLeftDiagonals()" classname="com.example.parcial.services.AdnServiceTest" time="0.0"/>
+  <testcase name="testNonMutant()" classname="com.example.parcial.services.AdnServiceTest" time="0.001"/>
+  <testcase name="testMutant1()" classname="com.example.parcial.services.AdnServiceTest" time="0.001"/>
+  <testcase name="testMutant2()" classname="com.example.parcial.services.AdnServiceTest" time="0.001"/>
+  <testcase name="testColums()" classname="com.example.parcial.services.AdnServiceTest" time="0.001"/>
+  <testcase name="testNonMutant2()" classname="com.example.parcial.services.AdnServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
