@@ -33,10 +33,6 @@ Prueba Unitaria No Mutante
 La aplicación ha sido desplegada en Render y está disponible en: https://examenparcial-magneto.onrender.com
 - Colocar al lado de el link /mutant o /stats
 
-## 📌 Endpoints Disponibles
-- POST /mutant - Recibe un JSON con la matriz de ADN y determina si es mutante, si lo es tirara como respuesta un true y si no un false.
-- GET /stats - Devuelve un JSON con el conteo de mutantes y humanos verificados indicando cuantos humanos , cuantos mutantes y el ratio .
-
 ```
 
 ##  Enlace para Pruebas y Documentación , para verificar el proyecto 
