@@ -23,7 +23,7 @@ Prueba Unitaria Mutante
 Prueba Unitaria No Mutante
 ```json
 { "dna": ["AAAT", "AACC", "AAAC", "CGGG"] }
-
+```
 ##  Funcionalidades Básicas
 👍 Soporte para matrices no cuadradas: Valida adecuadamente matrices que no son de 6x6.
 👍Comprobación de caracteres inválidos: Solo se aceptan las letras A, T, C y G en la secuencia de ADN.
