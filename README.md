@@ -30,7 +30,7 @@ Prueba Unitaria No Mutante
 👍 Detección de ADN duplicado: Se identifican y registran las secuencias de ADN que ya están en la base de datos.
 👍 Manejo de matrices vacías: Se asegura de que la matriz no esté vacía antes de comenzar el análisis.
 ## 🌐 Ejecución
-La aplicación ha sido desplegada en Render y está disponible en: https://examenparcial-magneto.onrender.com
+La aplicación ha sido desplegada en Render y está disponible en:
 - Colocar al lado de el link /mutant o /stats
 
 ```
